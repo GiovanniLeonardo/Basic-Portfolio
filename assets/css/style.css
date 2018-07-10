@@ -1,6 +1,10 @@
-* {
+/** enable mobile device compatibility */
+@media screen and (max-width: 481px){
+}
+
+* 
+{
     box-sizing: border-box;
-   
 }
 
 body{
